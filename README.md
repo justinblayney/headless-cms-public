@@ -1,4 +1,4 @@
-# A headless CMS Using Next.js and WordPress, hosted on Vercel
+# A headless CMS Using Next.js and WordPress
 
 
 ## Key Features
